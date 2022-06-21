@@ -1,0 +1,356 @@
+0	0	CONTINUE	계속하기
+0	1	NEW GAME	새로운 게임
+0	2	LOAD GAME	불러오기
+0	3	SETTINGS	환경 설정
+0	4	Team Name	팀 이름
+0	5	Manager Name	감독 이름
+0	6	LANGUAGE	언어
+0	7	TO TITLE SCREEN	타이틀 화면으로
+0	8	EXIT THE GAME	게임 종료
+0	10	BATTER	타자
+0	11	PITCHER	투수
+0	12	TO BATTER	타자 보기
+0	13	TO PITCHER	투수 보기
+0	14	HELP	도움말
+0	15	SCHEDULE	일정
+0	16	NEWS	뉴스
+0	17	SAVE/LOAD	저장/불러오기
+0	18	SETTINGS	환경 설정
+0	19	TRADE	트레이드
+0	20	Energy	기력
+0	20	FREE AGENT	자유 계약
+0	21	Hand	손
+0	21	MERCENARY	용병
+0	22	L. Opp.	L 상대
+0	22	ROOKIE	신인
+0	23	R. Opp.	R 상대
+0	23	HOME	홈
+0	24	PLAYER	선수 관리
+0	25	CLUB	구단 관리
+0	26	SCOUT	영입
+0	27	RECORDS	기록
+0	30	Hit	타격
+0	31	Eye	선구
+0	32	Power	힘
+0	33	GapPower	갭파워
+0	34	Speed	주력
+0	40	G	경기
+0	41	PA	타석
+0	42	AB	타수
+0	43	H	안타
+0	44	R	득점
+0	45	RBI	타점
+0	46	BB	볼넷
+0	47	SO	삼진
+0	48	HR	홈런
+0	49	SB	도루
+0	50	AVG	타율
+0	51	OBP	출루율
+0	52	SLG	장타율
+0	53	OPS	OPS
+0	54	2B	2루타
+0	55	3B	3루타
+0	56	HBP	사구
+0	57	IBB	고의사구
+0	58	GIDP	병살타
+0	59	SH	희생타
+0	60	SF	희생번트
+0	61	CS	도루실패
+0	62	E	실책
+0	80	IP	이닝
+0	81	GS	선발
+0	82	W	승
+0	83	L	패
+0	84	HLD	홀드
+0	85	SV	세이브
+0	86	CG	완투
+0	87	SHO	완봉
+0	88	TBF	타자수
+0	89	WP	폭투
+0	90	GB	땅볼
+0	100	Stamina	체력
+0	101	Velocity	구속
+0	102	K. Mov.	삼진
+0	103	Stuff	구위
+0	104	Control	제구
+0	105	Ground	땅볼
+0	106	Composure	침착성
+0	120	ER	자책
+0	121	R	실점
+0	200	STRIKE OUT	삼 진
+0	200	Info	정보
+0	201	BASE ON BALLS	볼 넷
+0	201	CHANGE	선수 변경
+0	202	OUT	아 웃
+0	202	POSITION	포지션 변경
+0	203	HIT	안 타
+0	203	GROUP	1,2군 변경
+0	204	ERROR	실 책
+0	205	SAFE	세이프
+0	300	TEAM RECORD	팀 기록
+0	301	PLAYER RECORD	선수 기록
+0	302	MANAGE PLAYER	선수 관리
+1	0	Minimum {0}, maximum {1} characters	최소 {0}자, 최대 {1}자
+1	1	Do you want to delete your recent data\nand start a new game?	최근 데이터를 삭제하고\n새 게임을 시작하시겠습니까?
+1	2	Do you want to\nreturn to the title screen?	타이틀 화면으로\n돌아가겠습니까?
+1	3	Do you want to quit the game?	게임을 종료하겠습니까?
+5	0	SAVE	저장
+5	1	LOAD	불러오기
+5	2	DELETE	삭제
+5	3	LANGUAGE	언어
+9	0	QUICK MATCH	빠른 경기
+9	1	NEXT DAY	다음 날로
+9	2	START MATCH	경기 시작
+9	3	TO PITCHER	투수 보기
+9	4	TO BATTER	타자 보기
+9	5	INFO	정보
+9	6	PLAYER	선수 변경
+9	7	POSITION	포지션 변경
+9	8	GROUP	1,2군 변경
+9	9	SELECT	선택
+9	10	VIEW	보기
+9	11	PLAYER	포지션 변경
+9	12	POSITION	선수 변경
+9	13	GROUP	1,2군 변경
+9	14	Select	선택
+9	15	Cancel	취소
+9	16	Date	날짜
+9	17	Match\nCount	경기 수
+9	18	Other Matches	다른 경기들
+9	19	Other Schedule	그 외 일정
+9	20	PROGRESS	경기 진행
+9	21	OPPONENT	상대 정보
+9	22	TODAY MATCH	오늘 경기
+10	0	TEAM NAME	팀 이름
+10	1	OWNER NAME	구단주 이름
+10	2	CREATE TEAM	팀 생성
+11	0	CHANGE	선수 변경
+11	1	OPPONENT	상대 정보
+11	2	AUTO	자동 진행
+11	3	EXIT	경기 종료
+11	4	RECORD	기록
+11	5	TACTICS	작 전
+11	6	HITTERS	타 순
+11	7	Do you want to end the match\nand return to the lobby?	경기를 종료하고\n로비로 돌아가겠습니까?
+11	8	PROGRESS	진행하기
+11	9	Do you want to return to the lobby?	로비로 돌아가겠습니까?
+11	10	Match Result	경기 결과
+20	0	Grade	등급
+20	1	Name	이름
+20	2	Age	나이
+20	3	Energy	기력
+20	4	Condition	컨디션
+20	5	Fatigue	피로도
+20	6	Hand	손
+20	7	Salay	연봉
+20	8	Basic	기본
+20	9	Records	기록
+20	10	Training	훈련
+20	11	Trait	특성
+20	12	Rank	순위
+20	13	Position	포지션
+20	19	Throws 	투
+20	20	Bats 	타
+20	21	L	좌
+20	22	R	우
+20	23	Out. Eval	외부 평가
+20	24	In. Eval	내부 평가
+20	25	Scout	스카우트
+20	26	G	경기
+20	27	W	승
+20	28	D	무
+20	29	L	패
+20	30	PCT	승률
+20	31	GB	게임차
+20	32	Opp L	L 상대
+20	33	Opp R	R 상대
+20	34	Stat	능력치
+20	35	T/B	투타
+21	0	Hit	타격
+21	1	Eye	선구
+21	2	Power	힘
+21	3	GapPower	갭파워
+21	4	Speed	주력
+21	5	G	게임 수
+21	6	PA	타석
+21	7	AB	타수
+21	8	H	안타
+21	9	R	득점
+21	10	RBI	타점
+21	11	BB	볼넷
+21	12	SO	삼진
+21	13	HR	홈런
+21	14	SB	도루
+21	15	AVG	타율
+21	16	OBP	출루율
+21	17	SLG	장타율
+21	18	OPS	OPS
+21	19	E	실책
+21	21	C	포수
+21	22	1B	1루수
+21	23	2B	2루수
+21	24	SS	유격수
+21	25	3B	3루수
+21	26	LF	좌익수
+21	27	CF	중견수
+21	28	RF	우익수
+21	29	DH	지명타자
+21	31	Hit	타격
+21	32	Eye	선구
+21	33	Pow	힘
+21	34	Gap	장타
+21	35	Spd	속도
+21	36	Def	수비
+21	37	Loc	위치
+23	0	 	 
+23	1	C	포수
+23	2	1B	1루
+23	3	2B	2루
+23	4	3B	3루
+23	5	SS	유격
+23	6	LF	좌익
+23	7	CF	중견
+23	8	RF	우익
+23	9	DH	지명
+23	10	P	투수
+23	11	OF	외야
+23	20	SUB	후보
+23	40	2G	2군
+24	0	 	 
+24	1	SP	선발
+24	2	RP	중계
+24	3	SU	셋업
+24	4	CP	마무리
+24	40	2G	2군
+25	0	 	 
+25	1	Starting	선발
+25	2	Relief	중계
+25	3	Set Up	셋업
+25	4	Closer	마무리
+25	40	Group 2	2군
+22	0	Sta	체력
+22	1	Vel	구속
+22	2	Stuff	구위
+22	3	K	삼진
+22	4	Ctrl	제구
+22	5	GB	땅볼
+22	6	Comp	침착
+22	7	Opp L	L 상대
+22	8	Opp R	R 상대
+22	9	G	경기
+22	10	IP	이닝
+22	11	W	승
+22	12	L	패
+22	13	SV	세이브
+22	14	SO	삼진
+2	0	SETTINGS	환경 설정
+2	1	TEAM RECORD	팀 기록
+2	2	PLAYER RECORD	선수 기록
+2	3	SAVE/LOAD	저장/불러오기
+2	4	SCHEDULE	일정
+2	5	PLAYER MANAGEMENT	선수 관리
+2	6	HOME	홈
+2	7	PLAYERS	선수 관리
+2	8	CLUB	구단 관리
+2	9	TRANSFER	영입/방출
+2	10	RECORD	기록
+2	11	FINANCE	재정
+2	12	QUICK MATCH	빠른 경기
+2	13	HELP	도움말
+2	14	NEWS	뉴스
+2	15	RETURN	돌아가기
+2	16	PAUSE	일시 정지
+2	17	STOPPING	정지 중
+2	18	RESUME	재개하기
+2	19	ADD MATCH	경기 추가
+2	20	Opponent	상대 정보
+2	21	OK	확인
+3	0	Mon	월
+3	1	Tue	화
+3	2	Wed	수
+3	3	Thu	목
+3	4	Fri	금
+3	5	Sat	토
+3	6	Sun	일
+32	0	G	경기
+32	1	GS	선발
+32	2	CG	완투
+32	3	SHO	완봉
+32	4	OUT	아웃
+32	5	Win	승
+32	6	Lose	패
+32	7	Save	세이브
+32	8	R	실점
+32	9	ER	자책
+32	10	BF	타자
+32	11	H	안타
+32	12	H2	2루타
+32	13	H3	3루타
+32	14	HR	홈런
+32	15	BB	볼넷
+32	16	IBB	고의사구
+32	17	SO	삼진
+32	18	HBP	사구
+32	19	WP	폭투
+32	20	GB	땅볼 비율
+32	21	IP	이닝
+32	22	ERA	ERA
+32	23	WHIP	WHIP
+32	24	FIP	FIP
+32	25	GBRate	땅볼 비율
+32	26	Stamina	체력
+32	27	Velocity	구속
+32	28	Stuff	구위
+32	29	KMov	삼진
+32	30	GMov	땅볼
+32	31	Control	제구
+32	32	Composure	침착
+32	33	LOpp	L 상대
+32	34	ROpp	R 상대
+31	0	G	경기
+31	1	PA	타석
+31	2	AB	타수
+31	3	R	득점
+31	4	H	안타
+31	5	H2	2루타
+31	6	H3	3루타
+31	7	HR	홈런
+31	8	RBI	타점
+31	9	SB	도루
+31	10	CS	도루 실패
+31	11	BB	볼넷
+31	12	SO	삼진
+31	13	GIDP	병살타
+31	14	HBP	사구
+31	15	SH	희생타
+31	16	SF	희생번트
+31	17	IBB	고의사구
+31	18	E	실책
+31	19	AVG	타율
+31	20	OBP	출루율
+31	21	SLG	장타율
+31	22	OPS	OPS
+31	23	Hit	타격
+31	24	Eye	선구
+31	25	Power	힘
+31	26	GapPower	장타
+31	27	AvoidK	삼진 회피
+31	28	Speed	주력
+31	29	DefenseC	포수
+31	30	Defense1B	1루수
+31	31	Defense2B	2루수
+31	32	Defense3B	3루수
+31	33	DefenseSS	유격수
+31	34	DefenseOF	외야수
+6	0	 	 
+6	1	Invalid Player	Invalid Player
+6	2	Exceed Group 1 Count	Exceed Group 1 Count
+6	3	Group 2 Day Remains	Group 2 Day Remains
+6	4	Scarce Batter Count	Scarce Batter Count
+6	5	Scarce Pitcher Count	Scarce Pitcher Count
+6	6	Group 2 Change	Group 2 Change
+6	7	Pitcher Position Exist	Pitcher Position Exist
+6	8	PitcherPositionFull	PitcherPositionFull
+7	0	L	좌
+7	1	R	우
+7	2	B	양
