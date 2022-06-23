@@ -1,2 +1,2 @@
-발표 PPT 및 자료 URL
-([Google Drive](https://drive.google.com/drive/u/0/folders/1Cx0Ltr_4dD6JdfOpaHdXjI_fFmDZfOwK))
+알고리즘 설명 및 APK 파일
+([Google Drive](https://drive.google.com/drive/u/0/folders/1gVIA58PWlRc5-AKrOwZQaq0xuyyDBBwq))
