@@ -2,10 +2,11 @@
 
 모바일로 즐기는 야구 시뮬레이션 게임
 
-# 링크
-
 알고리즘 설명, APK 파일 및 진행된 게임 데이터 파일
 ([Google Drive](https://drive.google.com/drive/u/0/folders/1gVIA58PWlRc5-AKrOwZQaq0xuyyDBBwq))
+
+- 선수 생성 기능 개발
+- 야구 경기 시뮬레이터 개발
 
 # 사진
 
