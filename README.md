@@ -19,4 +19,4 @@
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fvn0cL%2FbtrFvrEDM17%2FFinS4vaMgArmUrffxkmvq0%2Fimg.jpg" width="200"/>
 
-<img src="[https://play-lh.googleusercontent.com/WZi5qwWc3o3aUKmbopTN9S9iVd7fWxNzhi4dwJFzlZCroz58XuTrbkbnQ12eplRM7RQ=w2560-h1440-rw](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F27sA0%2FbtrFxjy2tL6%2FrWH3jnGkg6266wUELVWQP1%2Fimg.jpg)" width="200"/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F27sA0%2FbtrFxjy2tL6%2FrWH3jnGkg6266wUELVWQP1%2Fimg.jpg" width="200"/>
