@@ -2,11 +2,14 @@
 
 모바일로 즐기는 야구 시뮬레이션 게임
 
+- 선수 생성 기능 개발
+- 야구 경기 시뮬레이터 개발
+
 알고리즘 설명, APK 파일 및 진행된 게임 데이터 파일
 ([Google Drive](https://drive.google.com/drive/u/0/folders/1gVIA58PWlRc5-AKrOwZQaq0xuyyDBBwq))
 
-- 선수 생성 기능 개발
-- 야구 경기 시뮬레이터 개발
+매치 엔진 코드 URL
+([Github](https://github.com/royalturtle/Proj-B/tree/main/Assets/Scripts/Match%20Engine/Engine))
 
 # 사진
 
